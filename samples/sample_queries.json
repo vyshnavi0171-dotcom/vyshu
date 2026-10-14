@@ -1,0 +1,32 @@
+[
+  {
+    "category": "WhatsApp Phishing Hoax (Hinglish)",
+    "text": "Breaking News: PM Modi ne sabhi Bharatiya yuva ke liye 3 mahine ka free internet recharge announce kiya hai. Kripya niche diye gaye link par jakar apna phone number register kare: bit.ly/pm-free-data-2024. Ye offer sirf aaj raat 12 baje tak valid hai, jaldi se 10 WhatsApp groups me bhejo!",
+    "language": "hinglish",
+    "expected_verdict": "FALSE"
+  },
+  {
+    "category": "Child Kidnapping Panic Rumor (Hindi Devanagari)",
+    "text": "सावधान! सभी माता-पिता ध्यान दें। दिल्ली और एनसीआर के इलाकों में 10 बच्चा चोर सक्रिय हैं जो स्कूल से आते बच्चों को बेहोश कर किडनी निकाल रहे हैं। पुलिस ने हाई अलर्ट जारी किया है। इस मैसेज को हर ग्रुप में तुरंत फैलाएं।",
+    "language": "hi",
+    "expected_verdict": "FALSE"
+  },
+  {
+    "category": "Fake Banking KYC Threat (Hinglish/English)",
+    "text": "Dear customer, your SBI YONO account has been blocked today due to pending PAN card verification. Immediately click http://sbi-kyc-update.xyz to prevent account suspension.",
+    "language": "en",
+    "expected_verdict": "FALSE"
+  },
+  {
+    "category": "Legitimate News (English)",
+    "text": "The Reserve Bank of India (RBI) has kept the repo rate unchanged at 6.5 percent during its Monetary Policy Committee meeting held in Mumbai.",
+    "language": "en",
+    "expected_verdict": "AUTHENTIC"
+  },
+  {
+    "category": "Legitimate Public Notice (Hindi)",
+    "text": "भारतीय मौसम विज्ञान विभाग (IMD) ने तटीय ओडिशा और पश्चिम बंगाल में अगले 24 घंटों के लिए भारी बारिश का येलो अलर्ट जारी किया है। मछुआरों को समुद्र में न जाने की सलाह दी गई है।",
+    "language": "hi",
+    "expected_verdict": "AUTHENTIC"
+  }
+]
